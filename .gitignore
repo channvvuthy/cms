@@ -1,12 +1,12 @@
 .env
 *.zip
 ._*
-/vendor
-/node_modules
-/public/uploads
-/public/themes/*
-/.idea
-/framework
+vendor
+node_modules
+public/uploads
+public/themes/*
+.idea
+framework
 Homestead.json
 Homestead.yaml
 
